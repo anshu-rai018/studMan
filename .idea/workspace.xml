@@ -5,12 +5,584 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="272561fe-893d-47f1-8d4b-475208d0c809" name="Changes" comment="first commit">
-      <change afterPath="$PROJECT_DIR$/studMan/studMan/views.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/misc.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/misc.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/studMan/static/assets/css/animate.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/studMan/static/assets/css/assets/css/animate.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/studMan/static/assets/css/assets/css/assets/css/animate.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/studMan/static/assets/css/assets/css/assets/css/bootstrap.min.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/studMan/static/assets/css/assets/css/assets/css/materialdesignicons.min.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/studMan/static/assets/css/assets/css/assets/css/style.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/studMan/static/assets/css/assets/css/assets/img/favicon.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/studMan/static/assets/css/assets/css/assets/img/image-1.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/studMan/static/assets/css/assets/css/assets/img/image-10.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/studMan/static/assets/css/assets/css/assets/img/image-2.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/studMan/static/assets/css/assets/css/assets/img/image-3.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/studMan/static/assets/css/assets/css/assets/img/image-4.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/studMan/static/assets/css/assets/css/assets/img/image-5.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/studMan/static/assets/css/assets/css/assets/img/image-6.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/studMan/static/assets/css/assets/css/assets/img/image-7.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/studMan/static/assets/css/assets/css/assets/img/image-8.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/studMan/static/assets/css/assets/css/assets/img/image-9.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/studMan/static/assets/css/assets/css/assets/img/image.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/studMan/static/assets/css/assets/css/assets/img/logo.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/studMan/static/assets/css/assets/css/assets/js/bootstrap.min.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/studMan/static/assets/css/assets/css/assets/js/jquery-1.12.4.min.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/studMan/static/assets/css/assets/css/assets/js/main.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/studMan/static/assets/css/assets/css/assets/js/popper.min.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/studMan/static/assets/css/assets/css/assets/js/smooth-scroll.min.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/studMan/static/assets/css/assets/css/assets/js/wow.min.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/studMan/static/assets/css/assets/css/assets/plugins/fontawesome/css/all.min.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/studMan/static/assets/css/assets/css/assets/plugins/fontawesome/css/fontawesome.min.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/studMan/static/assets/css/assets/css/bootstrap.min.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/studMan/static/assets/css/assets/css/html-template/departments.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/studMan/static/assets/css/assets/css/html-template/event.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/studMan/static/assets/css/assets/css/html-template/expenses.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/studMan/static/assets/css/assets/css/html-template/fees-collections.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/studMan/static/assets/css/assets/css/html-template/holiday.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/studMan/static/assets/css/assets/css/html-template/index.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/studMan/static/assets/css/assets/css/html-template/library.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/studMan/static/assets/css/assets/css/html-template/salary.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/studMan/static/assets/css/assets/css/html-template/subjects.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/studMan/static/assets/css/assets/css/html-template/teacher-details.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/studMan/static/assets/css/assets/css/html-template/teachers.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/studMan/static/assets/css/assets/css/index.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/studMan/static/assets/css/assets/css/materialdesignicons.min.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/studMan/static/assets/css/assets/css/style.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/studMan/static/assets/css/assets/img/assets/css/animate.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/studMan/static/assets/css/assets/img/assets/css/bootstrap.min.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/studMan/static/assets/css/assets/img/assets/css/materialdesignicons.min.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/studMan/static/assets/css/assets/img/assets/css/style.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/studMan/static/assets/css/assets/img/assets/img/favicon.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/studMan/static/assets/css/assets/img/assets/img/image-1.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/studMan/static/assets/css/assets/img/assets/img/image-10.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/studMan/static/assets/css/assets/img/assets/img/image-2.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/studMan/static/assets/css/assets/img/assets/img/image-3.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/studMan/static/assets/css/assets/img/assets/img/image-4.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/studMan/static/assets/css/assets/img/assets/img/image-5.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/studMan/static/assets/css/assets/img/assets/img/image-6.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/studMan/static/assets/css/assets/img/assets/img/image-7.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/studMan/static/assets/css/assets/img/assets/img/image-8.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/studMan/static/assets/css/assets/img/assets/img/image-9.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/studMan/static/assets/css/assets/img/assets/img/image.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/studMan/static/assets/css/assets/img/assets/img/logo.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/studMan/static/assets/css/assets/img/assets/js/bootstrap.min.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/studMan/static/assets/css/assets/img/assets/js/jquery-1.12.4.min.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/studMan/static/assets/css/assets/img/assets/js/main.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/studMan/static/assets/css/assets/img/assets/js/popper.min.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/studMan/static/assets/css/assets/img/assets/js/smooth-scroll.min.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/studMan/static/assets/css/assets/img/assets/js/wow.min.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/studMan/static/assets/css/assets/img/assets/plugins/fontawesome/css/all.min.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/studMan/static/assets/css/assets/img/assets/plugins/fontawesome/css/fontawesome.min.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/studMan/static/assets/css/assets/img/favicon.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/studMan/static/assets/css/assets/img/html-template/departments.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/studMan/static/assets/css/assets/img/html-template/event.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/studMan/static/assets/css/assets/img/html-template/expenses.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/studMan/static/assets/css/assets/img/html-template/fees-collections.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/studMan/static/assets/css/assets/img/html-template/holiday.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/studMan/static/assets/css/assets/img/html-template/index.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/studMan/static/assets/css/assets/img/html-template/library.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/studMan/static/assets/css/assets/img/html-template/salary.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/studMan/static/assets/css/assets/img/html-template/subjects.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/studMan/static/assets/css/assets/img/html-template/teacher-details.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/studMan/static/assets/css/assets/img/html-template/teachers.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/studMan/static/assets/css/assets/img/image-1.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/studMan/static/assets/css/assets/img/image-10.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/studMan/static/assets/css/assets/img/image-2.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/studMan/static/assets/css/assets/img/image-3.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/studMan/static/assets/css/assets/img/image-4.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/studMan/static/assets/css/assets/img/image-5.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/studMan/static/assets/css/assets/img/image-6.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/studMan/static/assets/css/assets/img/image-7.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/studMan/static/assets/css/assets/img/image-8.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/studMan/static/assets/css/assets/img/image-9.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/studMan/static/assets/css/assets/img/image.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/studMan/static/assets/css/assets/img/index.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/studMan/static/assets/css/assets/img/logo.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/studMan/static/assets/css/assets/js/assets/css/animate.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/studMan/static/assets/css/assets/js/assets/css/bootstrap.min.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/studMan/static/assets/css/assets/js/assets/css/materialdesignicons.min.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/studMan/static/assets/css/assets/js/assets/css/style.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/studMan/static/assets/css/assets/js/assets/img/favicon.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/studMan/static/assets/css/assets/js/assets/img/image-1.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/studMan/static/assets/css/assets/js/assets/img/image-10.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/studMan/static/assets/css/assets/js/assets/img/image-2.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/studMan/static/assets/css/assets/js/assets/img/image-3.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/studMan/static/assets/css/assets/js/assets/img/image-4.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/studMan/static/assets/css/assets/js/assets/img/image-5.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/studMan/static/assets/css/assets/js/assets/img/image-6.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/studMan/static/assets/css/assets/js/assets/img/image-7.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/studMan/static/assets/css/assets/js/assets/img/image-8.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/studMan/static/assets/css/assets/js/assets/img/image-9.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/studMan/static/assets/css/assets/js/assets/img/image.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/studMan/static/assets/css/assets/js/assets/img/logo.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/studMan/static/assets/css/assets/js/assets/js/bootstrap.min.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/studMan/static/assets/css/assets/js/assets/js/jquery-1.12.4.min.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/studMan/static/assets/css/assets/js/assets/js/main.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/studMan/static/assets/css/assets/js/assets/js/popper.min.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/studMan/static/assets/css/assets/js/assets/js/smooth-scroll.min.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/studMan/static/assets/css/assets/js/assets/js/wow.min.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/studMan/static/assets/css/assets/js/assets/plugins/fontawesome/css/all.min.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/studMan/static/assets/css/assets/js/assets/plugins/fontawesome/css/fontawesome.min.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/studMan/static/assets/css/assets/js/bootstrap.min.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/studMan/static/assets/css/assets/js/html-template/departments.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/studMan/static/assets/css/assets/js/html-template/event.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/studMan/static/assets/css/assets/js/html-template/expenses.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/studMan/static/assets/css/assets/js/html-template/fees-collections.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/studMan/static/assets/css/assets/js/html-template/holiday.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/studMan/static/assets/css/assets/js/html-template/index.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/studMan/static/assets/css/assets/js/html-template/library.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/studMan/static/assets/css/assets/js/html-template/salary.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/studMan/static/assets/css/assets/js/html-template/subjects.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/studMan/static/assets/css/assets/js/html-template/teacher-details.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/studMan/static/assets/css/assets/js/html-template/teachers.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/studMan/static/assets/css/assets/js/index.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/studMan/static/assets/css/assets/js/jquery-1.12.4.min.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/studMan/static/assets/css/assets/js/main.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/studMan/static/assets/css/assets/js/popper.min.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/studMan/static/assets/css/assets/js/smooth-scroll.min.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/studMan/static/assets/css/assets/js/wow.min.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/studMan/static/assets/css/assets/plugins/fontawesome/css/all.min.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/studMan/static/assets/css/assets/plugins/fontawesome/css/assets/css/animate.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/studMan/static/assets/css/assets/plugins/fontawesome/css/assets/css/bootstrap.min.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/studMan/static/assets/css/assets/plugins/fontawesome/css/assets/css/materialdesignicons.min.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/studMan/static/assets/css/assets/plugins/fontawesome/css/assets/css/style.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/studMan/static/assets/css/assets/plugins/fontawesome/css/assets/img/favicon.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/studMan/static/assets/css/assets/plugins/fontawesome/css/assets/img/image-1.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/studMan/static/assets/css/assets/plugins/fontawesome/css/assets/img/image-10.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/studMan/static/assets/css/assets/plugins/fontawesome/css/assets/img/image-2.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/studMan/static/assets/css/assets/plugins/fontawesome/css/assets/img/image-3.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/studMan/static/assets/css/assets/plugins/fontawesome/css/assets/img/image-4.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/studMan/static/assets/css/assets/plugins/fontawesome/css/assets/img/image-5.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/studMan/static/assets/css/assets/plugins/fontawesome/css/assets/img/image-6.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/studMan/static/assets/css/assets/plugins/fontawesome/css/assets/img/image-7.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/studMan/static/assets/css/assets/plugins/fontawesome/css/assets/img/image-8.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/studMan/static/assets/css/assets/plugins/fontawesome/css/assets/img/image-9.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/studMan/static/assets/css/assets/plugins/fontawesome/css/assets/img/image.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/studMan/static/assets/css/assets/plugins/fontawesome/css/assets/img/logo.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/studMan/static/assets/css/assets/plugins/fontawesome/css/assets/js/bootstrap.min.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/studMan/static/assets/css/assets/plugins/fontawesome/css/assets/js/jquery-1.12.4.min.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/studMan/static/assets/css/assets/plugins/fontawesome/css/assets/js/main.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/studMan/static/assets/css/assets/plugins/fontawesome/css/assets/js/popper.min.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/studMan/static/assets/css/assets/plugins/fontawesome/css/assets/js/smooth-scroll.min.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/studMan/static/assets/css/assets/plugins/fontawesome/css/assets/js/wow.min.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/studMan/static/assets/css/assets/plugins/fontawesome/css/assets/plugins/fontawesome/css/all.min.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/studMan/static/assets/css/assets/plugins/fontawesome/css/assets/plugins/fontawesome/css/fontawesome.min.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/studMan/static/assets/css/assets/plugins/fontawesome/css/fontawesome.min.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/studMan/static/assets/css/assets/plugins/fontawesome/css/html-template/departments.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/studMan/static/assets/css/assets/plugins/fontawesome/css/html-template/event.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/studMan/static/assets/css/assets/plugins/fontawesome/css/html-template/expenses.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/studMan/static/assets/css/assets/plugins/fontawesome/css/html-template/fees-collections.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/studMan/static/assets/css/assets/plugins/fontawesome/css/html-template/holiday.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/studMan/static/assets/css/assets/plugins/fontawesome/css/html-template/index.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/studMan/static/assets/css/assets/plugins/fontawesome/css/html-template/library.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/studMan/static/assets/css/assets/plugins/fontawesome/css/html-template/salary.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/studMan/static/assets/css/assets/plugins/fontawesome/css/html-template/subjects.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/studMan/static/assets/css/assets/plugins/fontawesome/css/html-template/teacher-details.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/studMan/static/assets/css/assets/plugins/fontawesome/css/html-template/teachers.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/studMan/static/assets/css/assets/plugins/fontawesome/css/index.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/studMan/static/assets/css/bootstrap-datetimepicker.min.css" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/studMan/static/assets/css/bootstrap.min.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/studMan/static/assets/css/html-template/assets/css/animate.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/studMan/static/assets/css/html-template/assets/css/bootstrap.min.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/studMan/static/assets/css/html-template/assets/css/materialdesignicons.min.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/studMan/static/assets/css/html-template/assets/css/style.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/studMan/static/assets/css/html-template/assets/img/favicon.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/studMan/static/assets/css/html-template/assets/img/image-1.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/studMan/static/assets/css/html-template/assets/img/image-10.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/studMan/static/assets/css/html-template/assets/img/image-2.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/studMan/static/assets/css/html-template/assets/img/image-3.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/studMan/static/assets/css/html-template/assets/img/image-4.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/studMan/static/assets/css/html-template/assets/img/image-5.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/studMan/static/assets/css/html-template/assets/img/image-6.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/studMan/static/assets/css/html-template/assets/img/image-7.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/studMan/static/assets/css/html-template/assets/img/image-8.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/studMan/static/assets/css/html-template/assets/img/image-9.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/studMan/static/assets/css/html-template/assets/img/image.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/studMan/static/assets/css/html-template/assets/img/logo.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/studMan/static/assets/css/html-template/assets/js/bootstrap.min.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/studMan/static/assets/css/html-template/assets/js/jquery-1.12.4.min.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/studMan/static/assets/css/html-template/assets/js/main.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/studMan/static/assets/css/html-template/assets/js/popper.min.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/studMan/static/assets/css/html-template/assets/js/smooth-scroll.min.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/studMan/static/assets/css/html-template/assets/js/wow.min.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/studMan/static/assets/css/html-template/assets/plugins/fontawesome/css/all.min.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/studMan/static/assets/css/html-template/assets/plugins/fontawesome/css/fontawesome.min.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/studMan/static/assets/css/html-template/departments.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/studMan/static/assets/css/html-template/event.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/studMan/static/assets/css/html-template/expenses.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/studMan/static/assets/css/html-template/fees-collections.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/studMan/static/assets/css/html-template/holiday.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/studMan/static/assets/css/html-template/html-template/departments.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/studMan/static/assets/css/html-template/html-template/event.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/studMan/static/assets/css/html-template/html-template/expenses.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/studMan/static/assets/css/html-template/html-template/fees-collections.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/studMan/static/assets/css/html-template/html-template/holiday.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/studMan/static/assets/css/html-template/html-template/index.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/studMan/static/assets/css/html-template/html-template/library.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/studMan/static/assets/css/html-template/html-template/salary.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/studMan/static/assets/css/html-template/html-template/subjects.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/studMan/static/assets/css/html-template/html-template/teacher-details.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/studMan/static/assets/css/html-template/html-template/teachers.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/studMan/static/assets/css/html-template/index.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/studMan/static/assets/css/html-template/library.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/studMan/static/assets/css/html-template/salary.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/studMan/static/assets/css/html-template/subjects.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/studMan/static/assets/css/html-template/teacher-details.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/studMan/static/assets/css/html-template/teachers.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/studMan/static/assets/css/index.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/studMan/static/assets/css/materialdesignicons.min.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/studMan/static/assets/css/style.css" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/studMan/static/assets/img/assets/css/animate.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/studMan/static/assets/img/assets/css/assets/css/animate.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/studMan/static/assets/img/assets/css/assets/css/bootstrap.min.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/studMan/static/assets/img/assets/css/assets/css/materialdesignicons.min.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/studMan/static/assets/img/assets/css/assets/css/style.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/studMan/static/assets/img/assets/css/assets/img/favicon.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/studMan/static/assets/img/assets/css/assets/img/image-1.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/studMan/static/assets/img/assets/css/assets/img/image-10.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/studMan/static/assets/img/assets/css/assets/img/image-2.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/studMan/static/assets/img/assets/css/assets/img/image-3.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/studMan/static/assets/img/assets/css/assets/img/image-4.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/studMan/static/assets/img/assets/css/assets/img/image-5.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/studMan/static/assets/img/assets/css/assets/img/image-6.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/studMan/static/assets/img/assets/css/assets/img/image-7.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/studMan/static/assets/img/assets/css/assets/img/image-8.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/studMan/static/assets/img/assets/css/assets/img/image-9.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/studMan/static/assets/img/assets/css/assets/img/image.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/studMan/static/assets/img/assets/css/assets/img/logo.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/studMan/static/assets/img/assets/css/assets/js/bootstrap.min.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/studMan/static/assets/img/assets/css/assets/js/jquery-1.12.4.min.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/studMan/static/assets/img/assets/css/assets/js/main.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/studMan/static/assets/img/assets/css/assets/js/popper.min.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/studMan/static/assets/img/assets/css/assets/js/smooth-scroll.min.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/studMan/static/assets/img/assets/css/assets/js/wow.min.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/studMan/static/assets/img/assets/css/assets/plugins/fontawesome/css/all.min.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/studMan/static/assets/img/assets/css/assets/plugins/fontawesome/css/fontawesome.min.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/studMan/static/assets/img/assets/css/bootstrap.min.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/studMan/static/assets/img/assets/css/html-template/departments.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/studMan/static/assets/img/assets/css/html-template/event.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/studMan/static/assets/img/assets/css/html-template/expenses.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/studMan/static/assets/img/assets/css/html-template/fees-collections.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/studMan/static/assets/img/assets/css/html-template/holiday.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/studMan/static/assets/img/assets/css/html-template/index.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/studMan/static/assets/img/assets/css/html-template/library.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/studMan/static/assets/img/assets/css/html-template/salary.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/studMan/static/assets/img/assets/css/html-template/subjects.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/studMan/static/assets/img/assets/css/html-template/teacher-details.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/studMan/static/assets/img/assets/css/html-template/teachers.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/studMan/static/assets/img/assets/css/index.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/studMan/static/assets/img/assets/css/materialdesignicons.min.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/studMan/static/assets/img/assets/css/style.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/studMan/static/assets/img/assets/img/assets/css/animate.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/studMan/static/assets/img/assets/img/assets/css/bootstrap.min.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/studMan/static/assets/img/assets/img/assets/css/materialdesignicons.min.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/studMan/static/assets/img/assets/img/assets/css/style.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/studMan/static/assets/img/assets/img/assets/img/favicon.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/studMan/static/assets/img/assets/img/assets/img/image-1.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/studMan/static/assets/img/assets/img/assets/img/image-10.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/studMan/static/assets/img/assets/img/assets/img/image-2.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/studMan/static/assets/img/assets/img/assets/img/image-3.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/studMan/static/assets/img/assets/img/assets/img/image-4.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/studMan/static/assets/img/assets/img/assets/img/image-5.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/studMan/static/assets/img/assets/img/assets/img/image-6.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/studMan/static/assets/img/assets/img/assets/img/image-7.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/studMan/static/assets/img/assets/img/assets/img/image-8.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/studMan/static/assets/img/assets/img/assets/img/image-9.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/studMan/static/assets/img/assets/img/assets/img/image.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/studMan/static/assets/img/assets/img/assets/img/logo.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/studMan/static/assets/img/assets/img/assets/js/bootstrap.min.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/studMan/static/assets/img/assets/img/assets/js/jquery-1.12.4.min.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/studMan/static/assets/img/assets/img/assets/js/main.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/studMan/static/assets/img/assets/img/assets/js/popper.min.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/studMan/static/assets/img/assets/img/assets/js/smooth-scroll.min.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/studMan/static/assets/img/assets/img/assets/js/wow.min.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/studMan/static/assets/img/assets/img/assets/plugins/fontawesome/css/all.min.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/studMan/static/assets/img/assets/img/assets/plugins/fontawesome/css/fontawesome.min.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/studMan/static/assets/img/assets/img/favicon.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/studMan/static/assets/img/assets/img/html-template/departments.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/studMan/static/assets/img/assets/img/html-template/event.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/studMan/static/assets/img/assets/img/html-template/expenses.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/studMan/static/assets/img/assets/img/html-template/fees-collections.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/studMan/static/assets/img/assets/img/html-template/holiday.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/studMan/static/assets/img/assets/img/html-template/index.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/studMan/static/assets/img/assets/img/html-template/library.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/studMan/static/assets/img/assets/img/html-template/salary.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/studMan/static/assets/img/assets/img/html-template/subjects.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/studMan/static/assets/img/assets/img/html-template/teacher-details.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/studMan/static/assets/img/assets/img/html-template/teachers.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/studMan/static/assets/img/assets/img/image-1.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/studMan/static/assets/img/assets/img/image-10.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/studMan/static/assets/img/assets/img/image-2.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/studMan/static/assets/img/assets/img/image-3.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/studMan/static/assets/img/assets/img/image-4.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/studMan/static/assets/img/assets/img/image-5.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/studMan/static/assets/img/assets/img/image-6.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/studMan/static/assets/img/assets/img/image-7.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/studMan/static/assets/img/assets/img/image-8.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/studMan/static/assets/img/assets/img/image-9.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/studMan/static/assets/img/assets/img/image.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/studMan/static/assets/img/assets/img/index.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/studMan/static/assets/img/assets/img/logo.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/studMan/static/assets/img/assets/js/assets/css/animate.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/studMan/static/assets/img/assets/js/assets/css/bootstrap.min.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/studMan/static/assets/img/assets/js/assets/css/materialdesignicons.min.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/studMan/static/assets/img/assets/js/assets/css/style.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/studMan/static/assets/img/assets/js/assets/img/favicon.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/studMan/static/assets/img/assets/js/assets/img/image-1.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/studMan/static/assets/img/assets/js/assets/img/image-10.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/studMan/static/assets/img/assets/js/assets/img/image-2.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/studMan/static/assets/img/assets/js/assets/img/image-3.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/studMan/static/assets/img/assets/js/assets/img/image-4.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/studMan/static/assets/img/assets/js/assets/img/image-5.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/studMan/static/assets/img/assets/js/assets/img/image-6.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/studMan/static/assets/img/assets/js/assets/img/image-7.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/studMan/static/assets/img/assets/js/assets/img/image-8.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/studMan/static/assets/img/assets/js/assets/img/image-9.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/studMan/static/assets/img/assets/js/assets/img/image.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/studMan/static/assets/img/assets/js/assets/img/logo.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/studMan/static/assets/img/assets/js/assets/js/bootstrap.min.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/studMan/static/assets/img/assets/js/assets/js/jquery-1.12.4.min.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/studMan/static/assets/img/assets/js/assets/js/main.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/studMan/static/assets/img/assets/js/assets/js/popper.min.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/studMan/static/assets/img/assets/js/assets/js/smooth-scroll.min.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/studMan/static/assets/img/assets/js/assets/js/wow.min.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/studMan/static/assets/img/assets/js/assets/plugins/fontawesome/css/all.min.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/studMan/static/assets/img/assets/js/assets/plugins/fontawesome/css/fontawesome.min.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/studMan/static/assets/img/assets/js/bootstrap.min.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/studMan/static/assets/img/assets/js/html-template/departments.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/studMan/static/assets/img/assets/js/html-template/event.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/studMan/static/assets/img/assets/js/html-template/expenses.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/studMan/static/assets/img/assets/js/html-template/fees-collections.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/studMan/static/assets/img/assets/js/html-template/holiday.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/studMan/static/assets/img/assets/js/html-template/index.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/studMan/static/assets/img/assets/js/html-template/library.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/studMan/static/assets/img/assets/js/html-template/salary.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/studMan/static/assets/img/assets/js/html-template/subjects.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/studMan/static/assets/img/assets/js/html-template/teacher-details.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/studMan/static/assets/img/assets/js/html-template/teachers.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/studMan/static/assets/img/assets/js/index.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/studMan/static/assets/img/assets/js/jquery-1.12.4.min.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/studMan/static/assets/img/assets/js/main.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/studMan/static/assets/img/assets/js/popper.min.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/studMan/static/assets/img/assets/js/smooth-scroll.min.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/studMan/static/assets/img/assets/js/wow.min.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/studMan/static/assets/img/assets/plugins/fontawesome/css/all.min.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/studMan/static/assets/img/assets/plugins/fontawesome/css/assets/css/animate.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/studMan/static/assets/img/assets/plugins/fontawesome/css/assets/css/bootstrap.min.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/studMan/static/assets/img/assets/plugins/fontawesome/css/assets/css/materialdesignicons.min.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/studMan/static/assets/img/assets/plugins/fontawesome/css/assets/css/style.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/studMan/static/assets/img/assets/plugins/fontawesome/css/assets/img/favicon.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/studMan/static/assets/img/assets/plugins/fontawesome/css/assets/img/image-1.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/studMan/static/assets/img/assets/plugins/fontawesome/css/assets/img/image-10.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/studMan/static/assets/img/assets/plugins/fontawesome/css/assets/img/image-2.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/studMan/static/assets/img/assets/plugins/fontawesome/css/assets/img/image-3.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/studMan/static/assets/img/assets/plugins/fontawesome/css/assets/img/image-4.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/studMan/static/assets/img/assets/plugins/fontawesome/css/assets/img/image-5.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/studMan/static/assets/img/assets/plugins/fontawesome/css/assets/img/image-6.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/studMan/static/assets/img/assets/plugins/fontawesome/css/assets/img/image-7.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/studMan/static/assets/img/assets/plugins/fontawesome/css/assets/img/image-8.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/studMan/static/assets/img/assets/plugins/fontawesome/css/assets/img/image-9.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/studMan/static/assets/img/assets/plugins/fontawesome/css/assets/img/image.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/studMan/static/assets/img/assets/plugins/fontawesome/css/assets/img/logo.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/studMan/static/assets/img/assets/plugins/fontawesome/css/assets/js/bootstrap.min.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/studMan/static/assets/img/assets/plugins/fontawesome/css/assets/js/jquery-1.12.4.min.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/studMan/static/assets/img/assets/plugins/fontawesome/css/assets/js/main.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/studMan/static/assets/img/assets/plugins/fontawesome/css/assets/js/popper.min.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/studMan/static/assets/img/assets/plugins/fontawesome/css/assets/js/smooth-scroll.min.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/studMan/static/assets/img/assets/plugins/fontawesome/css/assets/js/wow.min.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/studMan/static/assets/img/assets/plugins/fontawesome/css/assets/plugins/fontawesome/css/all.min.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/studMan/static/assets/img/assets/plugins/fontawesome/css/assets/plugins/fontawesome/css/fontawesome.min.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/studMan/static/assets/img/assets/plugins/fontawesome/css/fontawesome.min.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/studMan/static/assets/img/assets/plugins/fontawesome/css/html-template/departments.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/studMan/static/assets/img/assets/plugins/fontawesome/css/html-template/event.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/studMan/static/assets/img/assets/plugins/fontawesome/css/html-template/expenses.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/studMan/static/assets/img/assets/plugins/fontawesome/css/html-template/fees-collections.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/studMan/static/assets/img/assets/plugins/fontawesome/css/html-template/holiday.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/studMan/static/assets/img/assets/plugins/fontawesome/css/html-template/index.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/studMan/static/assets/img/assets/plugins/fontawesome/css/html-template/library.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/studMan/static/assets/img/assets/plugins/fontawesome/css/html-template/salary.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/studMan/static/assets/img/assets/plugins/fontawesome/css/html-template/subjects.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/studMan/static/assets/img/assets/plugins/fontawesome/css/html-template/teacher-details.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/studMan/static/assets/img/assets/plugins/fontawesome/css/html-template/teachers.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/studMan/static/assets/img/assets/plugins/fontawesome/css/index.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/studMan/static/assets/img/favicon.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/studMan/static/assets/img/html-template/assets/css/animate.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/studMan/static/assets/img/html-template/assets/css/bootstrap.min.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/studMan/static/assets/img/html-template/assets/css/materialdesignicons.min.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/studMan/static/assets/img/html-template/assets/css/style.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/studMan/static/assets/img/html-template/assets/img/favicon.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/studMan/static/assets/img/html-template/assets/img/image-1.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/studMan/static/assets/img/html-template/assets/img/image-10.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/studMan/static/assets/img/html-template/assets/img/image-2.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/studMan/static/assets/img/html-template/assets/img/image-3.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/studMan/static/assets/img/html-template/assets/img/image-4.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/studMan/static/assets/img/html-template/assets/img/image-5.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/studMan/static/assets/img/html-template/assets/img/image-6.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/studMan/static/assets/img/html-template/assets/img/image-7.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/studMan/static/assets/img/html-template/assets/img/image-8.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/studMan/static/assets/img/html-template/assets/img/image-9.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/studMan/static/assets/img/html-template/assets/img/image.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/studMan/static/assets/img/html-template/assets/img/logo.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/studMan/static/assets/img/html-template/assets/js/bootstrap.min.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/studMan/static/assets/img/html-template/assets/js/jquery-1.12.4.min.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/studMan/static/assets/img/html-template/assets/js/main.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/studMan/static/assets/img/html-template/assets/js/popper.min.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/studMan/static/assets/img/html-template/assets/js/smooth-scroll.min.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/studMan/static/assets/img/html-template/assets/js/wow.min.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/studMan/static/assets/img/html-template/assets/plugins/fontawesome/css/all.min.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/studMan/static/assets/img/html-template/assets/plugins/fontawesome/css/fontawesome.min.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/studMan/static/assets/img/html-template/departments.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/studMan/static/assets/img/html-template/event.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/studMan/static/assets/img/html-template/expenses.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/studMan/static/assets/img/html-template/fees-collections.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/studMan/static/assets/img/html-template/holiday.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/studMan/static/assets/img/html-template/html-template/departments.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/studMan/static/assets/img/html-template/html-template/event.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/studMan/static/assets/img/html-template/html-template/expenses.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/studMan/static/assets/img/html-template/html-template/fees-collections.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/studMan/static/assets/img/html-template/html-template/holiday.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/studMan/static/assets/img/html-template/html-template/index.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/studMan/static/assets/img/html-template/html-template/library.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/studMan/static/assets/img/html-template/html-template/salary.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/studMan/static/assets/img/html-template/html-template/subjects.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/studMan/static/assets/img/html-template/html-template/teacher-details.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/studMan/static/assets/img/html-template/html-template/teachers.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/studMan/static/assets/img/html-template/index.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/studMan/static/assets/img/html-template/library.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/studMan/static/assets/img/html-template/salary.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/studMan/static/assets/img/html-template/subjects.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/studMan/static/assets/img/html-template/teacher-details.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/studMan/static/assets/img/html-template/teachers.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/studMan/static/assets/img/image-1.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/studMan/static/assets/img/image-10.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/studMan/static/assets/img/image-2.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/studMan/static/assets/img/image-3.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/studMan/static/assets/img/image-4.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/studMan/static/assets/img/image-5.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/studMan/static/assets/img/image-6.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/studMan/static/assets/img/image-7.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/studMan/static/assets/img/image-8.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/studMan/static/assets/img/image-9.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/studMan/static/assets/img/image.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/studMan/static/assets/img/img-01.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/studMan/static/assets/img/index.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/studMan/static/assets/img/login.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/studMan/static/assets/img/logo-small.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/studMan/static/assets/img/logo-white.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/studMan/static/assets/img/logo.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/studMan/static/assets/img/profiles/avatar-01.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/studMan/static/assets/img/profiles/avatar-02.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/studMan/static/assets/img/profiles/avatar-03.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/studMan/static/assets/img/profiles/avatar-04.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/studMan/static/assets/img/profiles/avatar-05.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/studMan/static/assets/img/profiles/avatar-06.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/studMan/static/assets/img/profiles/avatar-07.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/studMan/static/assets/img/profiles/avatar-08.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/studMan/static/assets/img/profiles/avatar-09.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/studMan/static/assets/img/profiles/avatar-10.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/studMan/static/assets/img/profiles/avatar-11.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/studMan/static/assets/img/profiles/avatar-13.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/studMan/static/assets/img/profiles/avatar-17.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/studMan/static/assets/img/user.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/studMan/static/assets/js/assets/css/animate.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/studMan/static/assets/js/assets/css/bootstrap.min.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/studMan/static/assets/js/assets/css/materialdesignicons.min.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/studMan/static/assets/js/assets/css/style.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/studMan/static/assets/js/assets/img/favicon.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/studMan/static/assets/js/assets/img/image-1.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/studMan/static/assets/js/assets/img/image-10.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/studMan/static/assets/js/assets/img/image-2.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/studMan/static/assets/js/assets/img/image-3.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/studMan/static/assets/js/assets/img/image-4.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/studMan/static/assets/js/assets/img/image-5.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/studMan/static/assets/js/assets/img/image-6.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/studMan/static/assets/js/assets/img/image-7.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/studMan/static/assets/js/assets/img/image-8.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/studMan/static/assets/js/assets/img/image-9.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/studMan/static/assets/js/assets/img/image.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/studMan/static/assets/js/assets/img/logo.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/studMan/static/assets/js/assets/js/bootstrap.min.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/studMan/static/assets/js/assets/js/jquery-1.12.4.min.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/studMan/static/assets/js/assets/js/main.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/studMan/static/assets/js/assets/js/popper.min.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/studMan/static/assets/js/assets/js/smooth-scroll.min.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/studMan/static/assets/js/assets/js/wow.min.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/studMan/static/assets/js/assets/plugins/fontawesome/css/all.min.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/studMan/static/assets/js/assets/plugins/fontawesome/css/fontawesome.min.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/studMan/static/assets/js/bootstrap-datetimepicker.min.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/studMan/static/assets/js/bootstrap.min.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/studMan/static/assets/js/calander.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/studMan/static/assets/js/circle-progress.min.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/studMan/static/assets/js/form-validation.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/studMan/static/assets/js/html-template/departments.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/studMan/static/assets/js/html-template/event.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/studMan/static/assets/js/html-template/expenses.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/studMan/static/assets/js/html-template/fees-collections.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/studMan/static/assets/js/html-template/holiday.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/studMan/static/assets/js/html-template/index.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/studMan/static/assets/js/html-template/library.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/studMan/static/assets/js/html-template/salary.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/studMan/static/assets/js/html-template/subjects.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/studMan/static/assets/js/html-template/teacher-details.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/studMan/static/assets/js/html-template/teachers.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/studMan/static/assets/js/index.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/studMan/static/assets/js/jquery-1.12.4.min.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/studMan/static/assets/js/jquery-3.6.0.min.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/studMan/static/assets/js/jquery-ui.min.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/studMan/static/assets/js/jquery.maskedinput.min.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/studMan/static/assets/js/main.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/studMan/static/assets/js/mask.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/studMan/static/assets/js/moment.min.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/studMan/static/assets/js/popper.min.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/studMan/static/assets/js/script.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/studMan/static/assets/js/smooth-scroll.min.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/studMan/static/assets/js/wow.min.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/studMan/static/assets/plugins/apexchart/apexcharts.min.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/studMan/static/assets/plugins/apexchart/chart-data.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/studMan/static/assets/plugins/bootstrap/css/bootstrap.min.css" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/studMan/static/assets/plugins/bootstrap/js/bootstrap.min.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/studMan/static/assets/plugins/datatables/datatables.min.css" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/studMan/static/assets/plugins/datatables/datatables.min.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/studMan/static/assets/plugins/datatables/jquery.dataTables.min.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/studMan/static/assets/plugins/fontawesome/css/all.min.css" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/studMan/static/assets/plugins/fontawesome/css/fontawesome.min.css" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/studMan/static/assets/plugins/fontawesome/webfonts/fa-brands-400.eot" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/studMan/static/assets/plugins/fontawesome/webfonts/fa-brands-400.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/studMan/static/assets/plugins/fontawesome/webfonts/fa-brands-400.svg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/studMan/static/assets/plugins/fontawesome/webfonts/fa-brands-400.ttf" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/studMan/static/assets/plugins/fontawesome/webfonts/fa-brands-400.woff" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/studMan/static/assets/plugins/fontawesome/webfonts/fa-brands-400d41d.eot" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/studMan/static/assets/plugins/fontawesome/webfonts/fa-regular-400.eot" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/studMan/static/assets/plugins/fontawesome/webfonts/fa-regular-400.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/studMan/static/assets/plugins/fontawesome/webfonts/fa-regular-400.svg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/studMan/static/assets/plugins/fontawesome/webfonts/fa-regular-400.ttf" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/studMan/static/assets/plugins/fontawesome/webfonts/fa-regular-400.woff" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/studMan/static/assets/plugins/fontawesome/webfonts/fa-regular-400d41d.eot" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/studMan/static/assets/plugins/fontawesome/webfonts/fa-solid-900.eot" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/studMan/static/assets/plugins/fontawesome/webfonts/fa-solid-900.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/studMan/static/assets/plugins/fontawesome/webfonts/fa-solid-900.svg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/studMan/static/assets/plugins/fontawesome/webfonts/fa-solid-900.ttf" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/studMan/static/assets/plugins/fontawesome/webfonts/fa-solid-900.woff" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/studMan/static/assets/plugins/fontawesome/webfonts/fa-solid-900d41d.eot" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/studMan/static/assets/plugins/fullcalendar/fullcalendar.min.css" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/studMan/static/assets/plugins/fullcalendar/fullcalendar.min.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/studMan/static/assets/plugins/fullcalendar/jquery.fullcalendar.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/studMan/static/assets/plugins/select2/css/select2.min.css" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/studMan/static/assets/plugins/select2/js/select2.min.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/studMan/static/assets/plugins/simple-calendar/jquery.simple-calendar.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/studMan/static/assets/plugins/simple-calendar/simple-calendar.css" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/studMan/static/assets/plugins/slimscroll/jquery.slimscroll.min.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/studMan/static/assets/plugins/summernote/dist/font/summernotec360.eot" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/studMan/static/assets/plugins/summernote/dist/font/summernotec360.ttf" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/studMan/static/assets/plugins/summernote/dist/font/summernotec360.woff" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/studMan/static/assets/plugins/summernote/dist/summernote-bs4.css" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/studMan/static/assets/plugins/summernote/dist/summernote-bs4.min.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/studMan/studMan/Hod_views.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/studMan/studMan/Staf_views.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/studMan/studMan/Student_views.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/studMan/templates/base.html" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/studMan/db.sqlite3" beforeDir="false" afterPath="$PROJECT_DIR$/studMan/db.sqlite3" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/studMan/studMan/settings.py" beforeDir="false" afterPath="$PROJECT_DIR$/studMan/studMan/settings.py" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/studMan/studMan/urls.py" beforeDir="false" afterPath="$PROJECT_DIR$/studMan/studMan/urls.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/studMan/studMan/views.py" beforeDir="false" afterPath="$PROJECT_DIR$/studMan/studMan/views.py" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -21,6 +593,7 @@
     <option name="RECENT_TEMPLATES">
       <list>
         <option value="Python Script" />
+        <option value="HTML File" />
       </list>
     </option>
   </component>
@@ -33,9 +606,9 @@
     </option>
     <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
   </component>
-  <component name="ProjectColorInfo"><![CDATA[{
-  "associatedIndex": 7
-}]]></component>
+  <component name="ProjectColorInfo">{
+  &quot;associatedIndex&quot;: 7
+}</component>
   <component name="ProjectId" id="2aUm5jEVvNuRQxgdt0YUbLK8nYb" />
   <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
   <component name="ProjectViewState">
@@ -44,11 +617,18 @@
   </component>
   <component name="PropertiesComponent"><![CDATA[{
   "keyToString": {
+    "DefaultHtmlFileTemplate": "HTML File",
     "RunOnceActivity.OpenProjectViewOnStart": "true",
     "RunOnceActivity.ShowReadmeOnStart": "true",
-    "git-widget-placeholder": "master"
+    "git-widget-placeholder": "master",
+    "last_opened_file_path": "C:/Users/ASUS/PycharmProjects/studman/studMan/static"
   }
 }]]></component>
+  <component name="RecentsManager">
+    <key name="CopyFile.RECENT_KEYS">
+      <recent name="C:\Users\ASUS\PycharmProjects\studman\studMan\static" />
+    </key>
+  </component>
   <component name="RunManager">
     <configuration name="main" type="PythonConfigurationType" factoryName="Python" nameIsGenerated="true">
       <module name="studman" />
@@ -113,7 +693,23 @@
       <option name="project" value="LOCAL" />
       <updated>1704383209584</updated>
     </task>
-    <option name="localTasksCounter" value="4" />
+    <task id="LOCAL-00004" summary="first commit">
+      <option name="closed" value="true" />
+      <created>1704398179808</created>
+      <option name="number" value="00004" />
+      <option name="presentableId" value="LOCAL-00004" />
+      <option name="project" value="LOCAL" />
+      <updated>1704398179808</updated>
+    </task>
+    <task id="LOCAL-00005" summary="first commit">
+      <option name="closed" value="true" />
+      <created>1704398315478</created>
+      <option name="number" value="00005" />
+      <option name="presentableId" value="LOCAL-00005" />
+      <option name="project" value="LOCAL" />
+      <updated>1704398315478</updated>
+    </task>
+    <option name="localTasksCounter" value="6" />
     <servers />
   </component>
   <component name="Vcs.Log.Tabs.Properties">
@@ -138,11 +734,6 @@
           <url>file://$PROJECT_DIR$/main.py</url>
           <line>8</line>
           <option name="timeStamp" value="1" />
-        </line-breakpoint>
-        <line-breakpoint enabled="true" suspend="THREAD" type="python-line">
-          <url>file://$PROJECT_DIR$/studMan/studMan/urls.py</url>
-          <line>16</line>
-          <option name="timeStamp" value="2" />
         </line-breakpoint>
       </breakpoints>
     </breakpoint-manager>
