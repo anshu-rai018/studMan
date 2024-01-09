@@ -4,9 +4,9 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="272561fe-893d-47f1-8d4b-475208d0c809" name="Changes" comment="first commit">
+    <list default="true" id="272561fe-893d-47f1-8d4b-475208d0c809" name="Changes" comment="logiin update">
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/studMan/templates/login.html" beforeDir="false" afterPath="$PROJECT_DIR$/studMan/templates/login.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/studMan/stud_man_app/models.py" beforeDir="false" afterPath="$PROJECT_DIR$/studMan/stud_man_app/models.py" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -221,7 +221,31 @@
       <option name="project" value="LOCAL" />
       <updated>1704641259876</updated>
     </task>
-    <option name="localTasksCounter" value="17" />
+    <task id="LOCAL-00017" summary="logiin update">
+      <option name="closed" value="true" />
+      <created>1704736774515</created>
+      <option name="number" value="00017" />
+      <option name="presentableId" value="LOCAL-00017" />
+      <option name="project" value="LOCAL" />
+      <updated>1704736774515</updated>
+    </task>
+    <task id="LOCAL-00018" summary="logiin update">
+      <option name="closed" value="true" />
+      <created>1704736798608</created>
+      <option name="number" value="00018" />
+      <option name="presentableId" value="LOCAL-00018" />
+      <option name="project" value="LOCAL" />
+      <updated>1704736798608</updated>
+    </task>
+    <task id="LOCAL-00019" summary="logiin update">
+      <option name="closed" value="true" />
+      <created>1704737042787</created>
+      <option name="number" value="00019" />
+      <option name="presentableId" value="LOCAL-00019" />
+      <option name="project" value="LOCAL" />
+      <updated>1704737042787</updated>
+    </task>
+    <option name="localTasksCounter" value="20" />
     <servers />
   </component>
   <component name="Vcs.Log.Tabs.Properties">
@@ -237,7 +261,8 @@
   </component>
   <component name="VcsManagerConfiguration">
     <MESSAGE value="first commit" />
-    <option name="LAST_COMMIT_MESSAGE" value="first commit" />
+    <MESSAGE value="logiin update" />
+    <option name="LAST_COMMIT_MESSAGE" value="logiin update" />
   </component>
   <component name="XDebuggerManager">
     <breakpoint-manager>
