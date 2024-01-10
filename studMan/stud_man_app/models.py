@@ -4,4 +4,13 @@ from django.contrib.auth.models import AbstractUser
 # Create your models here.
 
 class CustomUser(AbstractUser):
-    uaer_type
+    user = (
+        (1,'HOD'),
+        (2,'STAFF'),
+        (3,'STUDENT'),
+    )
+
+
+
+    uaer_type = models.CharField(choices=USER,max_length=50,default=1):
+    profile_pic = models.ImageField(upload_to='media/profile_ pic')
